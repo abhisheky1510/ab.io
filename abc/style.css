@@ -1,3 +1,12 @@
 .dropdown-item{
     text-align: center;
 }
+
+nav{
+ 
+}
+
+.dropdown-menu{
+    border: 1px solid rgb(124, 123, 123);
+    box-shadow: 3px 3px rgb(180, 179, 179);
+}
