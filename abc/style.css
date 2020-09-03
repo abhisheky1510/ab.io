@@ -1,12 +1,22 @@
-.dropdown-item{
+.dropdown-menu{
+    box-shadow: 2px 2px gray;
     text-align: center;
 }
 
-nav{
-    height: 59px;
+.ab{
+    padding-right: 50px;
 }
 
-.dropdown-menu{
-    border: 1px solid rgb(124, 123, 123);
-    box-shadow: 3px 3px rgb(180, 179, 179);
+.navbar-brand{
+    padding-left: 50px;
+}
+
+.abb{
+    padding-right: 15px;
+}
+
+
+
+.carousel-item{
+    height: 300px;
 }
