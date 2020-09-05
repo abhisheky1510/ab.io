@@ -8,11 +8,21 @@
 }
 
 .navbar-brand{
-    padding-left: 50px;
+    padding-left: 25px;
 }
 
 .abb{
     padding-right: 15px;
 }
 
+.carousel-item{
+  
+}
 
+.ada{
+    padding-top: 30px;
+}
+
+.ada img{
+    height: 135px;
+}
