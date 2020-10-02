@@ -4,52 +4,49 @@
 }
 
 .ab{
-    padding-right: 25px;
+    margin-right: 20px;
 }
 
 .navbar-brand{
-    padding-left: 15px;
+    margin-left: 25px;
+    font-size: 22px;
 }
 
 .abb{
-    padding-right: 15px;
-}
-
-.carousel-item{
-    
+    margin-right: 15px;
 }
 
 .ada{
     padding-top: 0.5%;
 }
 
- .card{
-     border: 1px solid grey;
-     box-shadow: 2px 2px lightgray;
-     margin: 0px;
-     
- }
-
-
 .ada{
     margin-top: 15px;
 }
+
+.quarantine{
+    margin-top: 20px;
+}
+
+.ti{
+    text-align: center;
+}
+
+.title{
+    margin-top: 15px ;
+}
+
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 2px solid rgba(0, 0, 0, 0.1);
+  }
 
 .card img{
     height: 100px;
 }
 
-.embed-responsive{
-    height: 100px;;
+.A{
+    margin-bottom: 15px;
 }
-    
-
-.card-text{
-    font-size: 60%;
-}
-
-.btn-info{
-    margin-left: 0px;
-    margin-right: 0px;
-}
-
