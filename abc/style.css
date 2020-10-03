@@ -38,15 +38,36 @@
 
 hr {
     margin-top: 1rem;
-    margin-bottom: 1rem;
+    margin-bottom: 1rem
     border: 0;
     border-top: 2px solid rgba(0, 0, 0, 0.1);
   }
 
 .card img{
-    height: 100px;
+    height: 150px;
 }
 
 .A{
-    margin-bottom: 15px;
+    margin-bottom: 35px;
 }
+
+.footer{
+    background-color: #b8e2fc;
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
+    margin-top: 25px;
+}
+
+address{
+    font-size:80%;
+    margin:0px;
+}
+
+.fot h6{
+    font-size: medium;
+}
+
+.fot h5{
+    margin-bottom: 20px;
+}
+
