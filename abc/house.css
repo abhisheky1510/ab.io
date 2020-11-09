@@ -77,7 +77,11 @@ hr {
 .card img{
     height: 150px;
 }
-        
-.btn{
-    box-shadow: 5px 5px 10px;
+
+.ggg{
+    opacity: 1;
+}
+
+.ggg:hover{
+    opacity: 0.9;
 }
