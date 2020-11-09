@@ -45,15 +45,39 @@ address{
     margin-bottom: 20px;
 }
 
-#acc1 img{
-    max-width: 100%;
-    max-height: 100%;
+.age img{
+    width: 100%;
+    margin-left: 30px;
+    padding-right: 20px;
 }
 
-.card{
-    margin-bottom   : 20px;
+
+.card img{
+    height: 125px;
 }
 
-button{
-    height: 100px;
+.A{
+    margin-bottom: 15px;
+}
+
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 3px solid rgba(0, 0, 0, 0.1);
+  }
+.age3{
+    padding-left: 30px;
+}
+
+.tutor img{
+    height: 300px;
+}
+
+.card img{
+    height: 150px;
+}
+        
+.btn{
+    box-shadow: 5px 5px 10px;
 }
