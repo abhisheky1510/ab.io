@@ -56,7 +56,7 @@ hr {
     background-color: #b8e2fc;
     margin:0px auto;
     padding: 20px 0px 20px 0px;
-    margin-top: 25px;
+    
 }
 
 address{
@@ -76,3 +76,6 @@ address{
     box-shadow: 5px 5px 10px;
 }
 
+.card-text{
+    font-weight: bold;
+}

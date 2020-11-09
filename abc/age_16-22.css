@@ -9,7 +9,7 @@
 
 .navbar-brand{
     margin-left: 25px;
-    font-size: 22px;
+    font-size: 19px;
 }
 
 .abb{
@@ -79,4 +79,8 @@ hr {
 
 .card{
     box-shadow: 5px 5px 10px;
+}
+
+.card-text{
+    font-weight: bold;
 }
