@@ -73,3 +73,20 @@ hr {
 .card-text{
     font-weight: bold;
 }
+
+h2{
+    font-family: 'Exo 2', sans-serif;
+    
+}
+
+p{
+    font-family: 'Open Sans', sans-serif;
+}
+
+footer{
+    font-family: 'Open Sans', sans-serif;
+}
+
+footer h5{
+    font-weight: bold;
+}

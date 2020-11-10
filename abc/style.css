@@ -1,3 +1,4 @@
+
 .dropdown-menu{
     box-shadow: 2px 2px gray;
     text-align: center;
@@ -77,5 +78,27 @@ address{
 }
 
 .card-text{
+    font-weight: bold;
+}
+
+.ti{
+    font-family: 'Arvo', serif;
+}
+
+.quarantine h4{
+   
+font-family: 'Montserrat', sans-serif;
+}
+
+.accb label{
+    font-family: 'Exo 2', sans-serif;
+
+}
+
+footer{
+    font-family: 'Open Sans', sans-serif;
+}
+
+footer h5{
     font-weight: bold;
 }

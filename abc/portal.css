@@ -79,3 +79,16 @@ address{
 .card-text{
     font-weight: bold;
 }
+
+footer{
+    font-family: 'Open Sans', sans-serif;
+}
+
+footer h5{
+    font-weight: bold;
+}
+
+.accb label{
+    font-family: 'Exo 2', sans-serif;
+
+}

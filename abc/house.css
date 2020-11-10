@@ -85,3 +85,34 @@ hr {
 .ggg:hover{
     opacity: 0.9;
 }
+
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+
+h5{
+    font-family: 'Open Sans', sans-serif;
+}
+
+p{
+    font-family: 'Open Sans', sans-serif;
+}
+
+h4{
+    font-family: 'Open Sans', sans-serif;
+}
+
+footer{
+    font-family: 'Open Sans', sans-serif;
+}
+
+footer h5{
+    font-weight: bold;
+}
+
+.card-header button{
+    font-family: 'Exo 2', sans-serif;
+}
