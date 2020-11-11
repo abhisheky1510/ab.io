@@ -52,112 +52,37 @@
       </div>
     </nav>
 
-    <div style="padding-top: 50px; padding-bottom: 30px; background-image: url('./images/bggggg.jpg');"> 
-       <div class="container-fluid">
-        <div class="alert alert-success" role="alert">
-            <h6><b>We are going to host a platform soon where teachers and students can interact efficiently and can enjoy the teaching-learning process </b></h6>
-            <h6>Please provide your valuable info !!</h6>
+    <div class="container-fluid">
+      <div class="row no-gutter">
+          <div class="col-md-6 d-none d-md-flex bg-image"></div>
+          <div class="col-md-6 bg-light ">
+              <div class="login d-flex align-items-center py-5">
+                  <div class="container">
+                      <div class="row">
+                          <div class="col-lg-10 col-xl-7 mx-auto acccc">
+                              <h3 class="display-4">Admin Panel</h3>
+                              <br>
+                              <form id="login" action="./portal2.html">
+                                  <div class="form-group mb-3">
+                                      <input id="inputUser" type="text" placeholder="Username" required="" autofocus="" class="form-control rounded-pill border-0 shadow-sm px-4">
+                                  </div>
+                                  <div class="form-group mb-3">
+                                      <input id="inputPassword" type="password" placeholder="Password" required="" class="form-control rounded-pill border-0 shadow-sm px-4 text-primary">
+                                  </div>
+                                  <br>
+                                  <button onclick="login()" type="submit" class="btn nj btn-primary btn-block text-uppercase mb-2 rounded-pill shadow-sm">Sign in</button>
+                                  
+                              </form>
+                          </div>
+                      </div>
+                  </div>
+  
+              </div>
           </div>
-       </div>
-        <br>
-        <div class="container">
-          <div class="card accb">
-            
-            <div class="card-body" style="background-color: white;">
-              <form>
-                <div class="form-row">
-                  <div class="form-group col-md-8">
-                    <label for="name">Name</label>
-                    <input style="background-color: rgb(245, 243, 243);" type="text" class="form-control" id="name" required>
-                  </div>
-                  <div class="form-group col-md-4">
-                    <label for="age">Age</label>
-                    <input  style="background-color: rgb(245, 243, 243);" type="text" class="form-control" id="age" required>
-                  </div>
-                </div>
-                <div class="form-row">
-                  <div class="form-group col-md-7">
-                    <label for="inputState">State</label>
-                    <select  style="background-color: rgb(245, 243, 243);" id="inputState" class="form-control" >
-                      <option selected>Choose...</option>
-                      <option>Andhra Pradesh</option>
-                      <option>Arunachal Pradesh</option>
-                      <option>Assam</option>
-                      <option>Bihar</option>
-                      <option>Chandigarh</option>
-                      <option>Goa</option>
-                      <option>Gujarat</option>
-                      <option>Haryana</option>
-                      <option>HimachalPradesh</option>
-                      <option>Jharkhand</option>
-                      <option>Karnataka</option>
-                      <option>Kerala</option>
-                      <option>Madhya Pradesh</option>
-                      <option>Maharashtra</option>
-                      <option>Manipur</option>
-                      <option>Meghalaya</option>
-                      <option>Mizoram</option>
-                      <option>Nagaland</option>
-                      <option>Odisha</option>
-                      <option>Punjab</option>
-                      <option>Rajasthan</option>
-                      <option>Sikkim</option>
-                      <option>Tamil Nadu</option>
-                      <option>Tamil Nadu</option>
-                      <option>Telangana</option>
-                      <option>Tripura</option>
-                      <option>Uttarakhand</option>
-                      <option>Uttarpradesh</option>
-                      <option>West Bengal</option>
-                    </select>
-                  </div>
-                  <div class="form-group col-md-5">
-                    <label for="inputCity">E-mail</label>
-                    <input type="email"  style="background-color: rgb(245, 243, 243);" class="form-control" id="email" required>
-                  </div>
-                </div>
-                <div class="row">
-                  <div class="form-group col-md-6">
-                    <label for="inputoct">Tutor Category</label>
-                    <select  style="background-color: rgb(245, 243, 243);" id="inputoct" class="form-control">
-                      <option selected>Choose...</option>
-                      <option>Choreographer</option>
-                      <option>Chef</option>
-                      <option>Fitness Trainer</option>
-                      <option>Music Teacher</option>
-                      <option>Primary Teacher</option>
-                      <option>Proffesor</option>
-                      <option>Secondary Teacher</option>
-                      
-                    </select>
-                  </div>
-                  <div class="form-group col-md-6">
-                    <label for="exp"><center>Experience (in years)</center></label>
-                    <input  style="background-color: rgb(245, 243, 243);" type="text"  class="form-control" id="exp">
-                  </div>
-                </div>
-                <div class="row">
-                <div class="form-group col-md-6" >
-                    <label for="exp"><center>Start Date</center></label>
-                    <input  style="background-color: rgb(245, 243, 243);" type="date" class="form-control" id="date">
-                </div>
-                <div class="form-group col-md-6" >
-                    <label for="exp"><center>Number of Hours you can devote</center></label>
-                    <input  style="background-color: rgb(245, 243, 243);" type="text" class="form-control" id="date">
-                </div>
-            </div>
-                <div class="row">
-                  <div class="form-group col-md-12">
-                    <label for="sug">Any Queries ?</label>
-                    <textarea style="background-color: rgb(245, 243, 243);"  class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
-                  </div>
-                </div>
-                <button type="submit" class="btn btn-primary">Submit</button>
-              </form>
-            </div>
-          </div>
-        </div>    
-    </div>
+  
+      </div>
+  </div>
+  
 
     <footer class="footer">
         <div class="container">

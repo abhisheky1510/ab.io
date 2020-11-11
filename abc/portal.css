@@ -92,3 +92,19 @@ footer h5{
     font-family: 'Exo 2', sans-serif;
 
 }
+
+.login,
+.image {
+  min-height: 100vh;
+}
+
+.bg-image {
+  background-image: url('./images/login7.jpg');
+  background-size: cover;
+  background-position: center center;
+}
+
+.acccc h3{
+  font-family: 'Exo 2', sans-serif;
+}
+
